@@ -42,7 +42,7 @@ EWS flags effectively distinguish risk groups:
 - 🟡 Amber = watchlist  
 - 🟢 Green = safe  
 
-![Page 1](images/EWS Dashboard Page 1.png)
+images/EWS Dashboard Page 1.png
 
 ---
 
@@ -58,7 +58,7 @@ EWS flags effectively distinguish risk groups:
 Education strongly influences risk.  
 👉 Risk management should focus on **Bachelor’s & High School customers in Red**.  
 
-![Page 2](images/EWS Dashboard Page 2.png)
+images/EWS Dashboard Page 2.png
 
 ---
 
@@ -74,7 +74,7 @@ Education strongly influences risk.
 Risk is driven by **financial behavior (debt vs income)**, not just demographics.  
 👉 High-income customers with high debt ratios are also **high-risk**.  
 
-![Page 3](images/EWS Dashboard Page 3.png)
+images/EWS Dashboard Page 3.png
 
 ---
 
