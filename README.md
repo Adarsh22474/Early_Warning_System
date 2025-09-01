@@ -17,12 +17,4 @@ It includes data cleaning, queries, and dashboard visualizations to generate ins
 
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/adarsh-gupta-7228341b3
-- Email : adarsh346@gmail.com
-
-
-## 📫 Contact
-- LinkedIn: [www.linkedin.com/in/adarsh-gupta-7228341b3]  
-- Email: [adarsh346@gmail.com]  
-
-
- 
+- Email : adarsh346@gmail.com  
