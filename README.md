@@ -42,7 +42,7 @@ EWS flags effectively distinguish risk groups:
 - 🟡 Amber = watchlist  
 - 🟢 Green = safe  
 
-[![Dashboard Preview](images/EWS Dashboard Page 1.png)](images/EWS Dashboard Page 1.png)
+[![Dashboard Preview](images/EWS_Dashboard_Page_1.png)](images/EWS Dashboard Page 1.png)
 
 ---
 
